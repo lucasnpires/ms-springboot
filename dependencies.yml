@@ -1,0 +1,7 @@
+- path: buildpack-helm/iac-buildpack-helm
+  type: default
+  group: commit.ms-java-springboot
+  artifact: iac-buildpack-helm-master
+  packaging: tgz
+  classifier: bin
+  version: 0.0.1
